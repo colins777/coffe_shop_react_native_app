@@ -4,7 +4,7 @@ import {StyleSheet, Text, View} from "react-native";
 const DetailsScreen = () => {
     return (
         <View>
-            <Text>DetailsScreen 111</Text>
+            <Text>DetailsScreen11</Text>
         </View>
     )
 };
