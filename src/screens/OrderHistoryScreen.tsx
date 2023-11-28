@@ -9,6 +9,6 @@ const OrderHistoryScreen = () => {
     )
 };
 
-export default OrderHistoryScreen;
-
 const styles = StyleSheet.create({});
+
+export default OrderHistoryScreen;

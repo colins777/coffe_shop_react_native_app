@@ -9,6 +9,7 @@ const DetailsScreen = () => {
     )
 };
 
-export default DetailsScreen;
 
 const styles = StyleSheet.create({});
+
+export default DetailsScreen;

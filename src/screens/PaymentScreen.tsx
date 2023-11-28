@@ -9,6 +9,6 @@ const PaymentScreen = () => {
     )
 };
 
-export default PaymentScreen;
-
 const styles = StyleSheet.create({});
+
+export default PaymentScreen;
